@@ -1,0 +1,40 @@
+.cabeça h1 {
+    font-size: 35px;
+}
+
+.lateral {
+    text-align: center;
+}
+.lateral nav ul li {
+    line-height: 55px;
+    font-family: "Arial", "Helvetica", sans-serif;
+    font-size: 18px;
+    text-decoration: bold;
+}
+
+.container .titulo {
+    font-size: 1.8em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ass{
+    font-family: 'Dancing Script', cursive;
+    font-size: medium;
+    margin-top: 15px;
+}
+
+.container P {
+    font-size: 1.0em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 3.5ch;
+}
+
+.rodape {
+    font-family: "arial", sans-serif;
+    font-size: 15px;
+}
+
+#tabela {
+    text-align: center;
+}

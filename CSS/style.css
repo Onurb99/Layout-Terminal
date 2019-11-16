@@ -1,0 +1,34 @@
+.app {
+    display: grid;
+    grid-template-areas:
+        "cabeça"
+        "lateral"
+        "container"
+        "rodapé";
+        
+}
+
+.lateral nav ul li a {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.lateral nav ul li a:hover {
+    animation-name: exemplo;
+    animation-duration: 0.5s;
+}
+
+@keyframes exemplo {
+
+    from {
+        color: whitesmoke;
+    }
+
+    to {
+        color: gray;
+        font-size: 1.3rem;
+        
+    }
+}
