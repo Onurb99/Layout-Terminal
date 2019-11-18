@@ -1,11 +1,15 @@
 #prompt {
     text-align: center;
-    margin: 1.5em 0 10.0ch 0;
-    /* width: 500ch; */
-    /* height: 270em; */
+    margin: 20px 0 15px 0;
 }
 
-#logo {
-   /* width: 120ch; */
-   /* height: 80em; */
+ .prompt-image {
+    width: 90%;
+    max-width: 600px;
+    max-height: 250px;
+} 
+
+.logo-image {
+    height: 40%;
+    width: 60%;
 }

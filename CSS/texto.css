@@ -30,6 +30,10 @@
     text-indent: 3.5ch;
 }
 
+.flex-div p {
+    max-width: 250px;
+}
+
 .rodape {
     font-family: "arial", sans-serif;
     font-size: 15px;
