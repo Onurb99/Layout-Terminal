@@ -16,11 +16,10 @@
 }
 
 .lateral nav ul li a:hover {
-    animation-name: exemplo;
-    animation-duration: 0.5s;
+    color: gray;
 }
 
-@keyframes exemplo {
+/** @keyframes exemplo {
 
     from {
         color: whitesmoke;
@@ -31,4 +30,4 @@
         font-size: 1.3rem;
         
     }
-}
+} **/
