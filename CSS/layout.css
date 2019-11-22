@@ -22,6 +22,7 @@
 
 .lateral {
     float: left;
+    margin: 8px;
     grid-column: span 1;
     grid-row: 2/2;
 }

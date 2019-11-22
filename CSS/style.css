@@ -5,18 +5,10 @@
     text-decoration: none;
 }
 
-.lateral:hover {
-    background-color: #4F4F4F;
+.lateral nav ul li:hover {
+    /* border: 1px solid white; */
+    background-color: gray;
     transition: .5s;
-}
-
-.container:hover {
-    background-color: #4f4f4f;
-    transition: .5s;
-}
-
-.lateral nav ul li a:hover {
-    color: gray;
 }
 
 @media only screen and (max-width: 480px) {
@@ -35,5 +27,3 @@
         position: relative;
     }
 }
-
-;
