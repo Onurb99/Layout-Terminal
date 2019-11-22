@@ -8,7 +8,7 @@
 .lateral nav ul li:hover {
     /* border: 1px solid white; */
     background-color: gray;
-    transition: .5s;
+    transition: 1s;
 }
 
 @media only screen and (max-width: 480px) {
