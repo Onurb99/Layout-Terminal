@@ -10,6 +10,7 @@
 } 
 
 .logo-image {
-    height: 40%;
-    width: 60%;
+    width: 150px;
+    height: 90px;
+    max-height: content;
 }
